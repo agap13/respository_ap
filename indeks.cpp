@@ -1,6 +1,6 @@
 #include<iostream>
 int main()
 {
-  cout<<"dupa"<<Endl;
+  cout<<"dupa"<<endl;
   return 0;
 }
